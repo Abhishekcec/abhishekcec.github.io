@@ -1,0 +1,49 @@
+body{
+	background-image: url(a1.jpg);
+	background-repeat: no-repeat;
+	background-size: 300%;
+}
+h1{
+	color: #FFFFFF;
+	font-family: unset;
+}
+h2{
+	color: #FFFFFF;
+}
+table{
+	width="1200"  border="0"; margin: 10px;
+}
+.c1{
+	padding-left: 10px;
+}
+#text{
+	font-family: cursive;
+	font-size:16px;
+	color: #FFFFFF;
+}
+.b{
+	padding-right: 55px;
+}
+.emp{
+	padding-left: 10%;
+	color: rgb(153, 153, 255);
+}
+#bt{
+	background-color: #512DA8;
+	height: 45px; width: 100px;
+	color: #FFFFFF;
+}
+select{
+	height: 45px; width: 100px; font-size: 20px;
+}
+#bt1{
+	background-color: #512DA8;
+}
+.jobs{
+	padding-left: 20%;
+	vertical-align: middle;
+	color: #FFFFFF;
+}
+a{
+	color: #FFFFFF;
+}
